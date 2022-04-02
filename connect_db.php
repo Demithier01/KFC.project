@@ -14,4 +14,3 @@
     //echo"Connected successfully";
    
 ?>
-<h1> KFC___ </h1>
